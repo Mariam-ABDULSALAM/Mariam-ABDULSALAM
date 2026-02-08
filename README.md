@@ -2,7 +2,7 @@
 
 Data Analyst | Environmental Science & Public Health 
 
-Strong scientific background with skills in data cleaning,statistical analysis, and visualization to support evidence based research and decision making.
+Strong scientific background with skills in data cleaning, statistical analysis, and visualization to support evidence based research and decision making.
 
 
 # 💻 Tech Stack:
